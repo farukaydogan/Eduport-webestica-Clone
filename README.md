@@ -6,4 +6,4 @@ Eduport is made With Bootstrap 5
 This is Theme Repo 
 KODLINE SOFTWARE AND TECHNOLOGY LIMITED CO.
 
-## [LIVE DEMO](http://eduportdotwebestica.farukaydogan.com)
+## [LIVE DEMO](http://eduport.farukaydogan.com)
