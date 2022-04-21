@@ -4,4 +4,4 @@ This project is  a clone of [Eduport Original site](https://eduport.webestica.co
 
 KODLINE SOFTWARE AND TECHNOLOGY LIMITED CO.
 
-## [LIVE DEMO](http://eduportdotwebestica.farukaydogan.com/])
+## [LIVE DEMO](http://eduportdotwebestica.farukaydogan.com)
